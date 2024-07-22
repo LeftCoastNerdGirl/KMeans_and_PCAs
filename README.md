@@ -1,4 +1,4 @@
-# CryptoClustering
+# Unsupervised learning using K Means and Principal Component Analysis (PCA)
 
 This project uses unsupervised learning techniques including k-means clustering and PCA to predict changes cryptocurrencies.  
 
